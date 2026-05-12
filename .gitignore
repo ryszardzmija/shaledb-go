@@ -1,0 +1,9 @@
+# Go build outputs
+
+/bin/
+*.exe
+*.out
+
+# Editor
+
+.vscode/
